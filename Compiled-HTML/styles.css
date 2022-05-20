@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+}
+
+.img1 {
+  height: 280px;
+  width: 280px;
+}
+.bg-pink {
+  background-color: #c6cacb;
+  opacity: 0.8;
+  background-image: linear-gradient(135deg, #f59cb2 25%, transparent 25%),
+    linear-gradient(225deg, #f59cb2 25%, transparent 25%),
+    linear-gradient(45deg, #f59cb2 25%, transparent 25%),
+    linear-gradient(315deg, #f59cb2 25%, #c6cacb 25%);
+  background-position: 10px 0, 10px 0, 0 0, 0 0;
+  background-size: 20px 20px;
+  background-repeat: repeat;
+}
+
+.bg-blue1 {
+  background-color: #b7dbd9;
+}
+
+.bg-pink1 {
+  background-color: #f59cb2;
+}
+
+.bg-unisex {
+  background-color: #e3c360;
+}
+
+.bg-acc {
+  background-color: #cbb5db;
+}
