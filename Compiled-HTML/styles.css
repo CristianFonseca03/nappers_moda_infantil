@@ -7,16 +7,13 @@ body {
   height: 280px;
   width: 280px;
 }
+
+.img2 {
+  height: 40px;
+  width: 40px;
+}
 .bg-pink {
-  background-color: #c6cacb;
-  opacity: 0.8;
-  background-image: linear-gradient(135deg, #f59cb2 25%, transparent 25%),
-    linear-gradient(225deg, #f59cb2 25%, transparent 25%),
-    linear-gradient(45deg, #f59cb2 25%, transparent 25%),
-    linear-gradient(315deg, #f59cb2 25%, #c6cacb 25%);
-  background-position: 10px 0, 10px 0, 0 0, 0 0;
-  background-size: 20px 20px;
-  background-repeat: repeat;
+  background-image: url("./img/ptrn.jpg");
 }
 
 .bg-blue1 {
